@@ -12,7 +12,7 @@ Modified by: Josh Morris
 
 This tutorial originally showed how to create a part of speech tagger
 based on word level representations using an LSTM. I extended it's
-funcitonality to include character level representatoins as well.
+funcitonality to include character level representations as well.
 
 ### Usage:
 
